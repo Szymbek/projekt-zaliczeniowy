@@ -1,0 +1,8 @@
+Login:test@gmail.com
+Hasło:Test123!
+
+Login:admin@local
+Hasło:Admin123!
+
+Login:technik1@local 
+hasło:Technik123!
